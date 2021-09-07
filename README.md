@@ -3,8 +3,8 @@ PhD Macroeconomics Seminar Material
 ---
 
 ### Friday September 9, 2021
-1 [Install Julia, VS Code, and Julia extension](https://www.julia-vscode.org/docs/dev/gettingstarted/)
-2 [Git and Github](https://julia.quantecon.org/more_julia/version_control.html)
+1. [Install Julia, VS Code, and Julia extension](https://www.julia-vscode.org/docs/dev/gettingstarted/)
+2. [Git and Github](https://julia.quantecon.org/more_julia/version_control.html)
 
 Goals:
 At the end of this tutorial, you should hopefully have Julia, VS Code, and Git installed and running and have a github account.
