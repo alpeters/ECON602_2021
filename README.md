@@ -3,10 +3,10 @@
 ## Friday September 9, 2021
 ### Links:
 1. [Install Julia, VS Code, and Julia extension](https://www.julia-vscode.org/docs/dev/gettingstarted/)
-2. [Git and Github](https://julia.quantecon.org/more_julia/version_control.html)
+2. Git and Github (link coming soon)
 
 ### Goals:
-At the end of this tutorial, you should hopefully have:
+At the end of this tutorial, you should have:
 1. Julia running via VS Code,
 2. Git installed,
 3. a Github account, and
