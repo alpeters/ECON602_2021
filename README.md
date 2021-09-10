@@ -3,7 +3,7 @@
 ## Friday September 9, 2021
 ### Tasks:
 1. [Install Julia, VS Code, and Julia extension](https://www.julia-vscode.org/docs/dev/gettingstarted/) (Do all)
-2. [Install Git, sign up for Github, and do some basic operations](https://quantecon.github.io/lecture-julia.myst/software_engineering/version_control.html#id5) (Do everything to the end of 11.3 and read through the rest)
+2. [Install Git, sign up for Github, and do some basic operations](https://julia.quantecon.org/software_engineering/version_control.html) (Do everything to the end of 11.3 and read through the rest)
 
 ### Goals:
 At the end of this tutorial, you should have:
