@@ -1,5 +1,25 @@
 # ECON 602 Macro Tutorial Material
 
+
+## Friday September 16, 2021
+### Goals
+1. Some practice with git, VS Code
+2. Introduction to Julia
+    - Basic syntax
+    - Variable types
+    - Matrix operations
+    - Functions, control flow, and scope
+    - Optimization
+
+### Tasks
+- I'll walk you through everything in class. (I'll post an outline with some useful notes afterward)
+
+### Useful resources:
+- [Quantecon Introduction to Julia](https://julia.quantecon.org/index_toc.html)
+- [Official Julia Manual](https://docs.julialang.org/en/v1/manual/getting-started/)
+
+---
+
 ## Friday September 9, 2021
 ### Tasks:
 1. [Install Julia, VS Code, and Julia extension](https://www.julia-vscode.org/docs/dev/gettingstarted/) (Do all)
@@ -14,20 +34,3 @@ At the end of this tutorial, you should have:
 
 If there is time left, we'll move on to some basic programming.
 
-<!-- --- -->
-
-<!-- ## Friday September 16, 2021
-[Introduction to Julia](https://julia.quantecon.org/index_toc.html) -->
-<!-- - VS Workspace
-- Julia packages
-- Julia environments
-- Basic coding
-    + [Julia basic intro](https://quantecon.github.io/lecture-julia.myst/getting_started_julia/julia_by_example.html#optional-resources-for-introductory-programming    )
-    + Variable types
-    + [Ways to run code](https://www.julia-vscode.org/docs/stable/userguide/runningcode/)
-    + Up arrow (+ first letters)
-    + [Naming conventions](https://docs.julialang.org/en/v1/manual/style-guide/#Use-naming-conventions-consistent-with-Julia-base/)
-    + Plots
-    + Random numbers
-    + Loops
-    + Functions -->
