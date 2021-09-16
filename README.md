@@ -2,6 +2,9 @@
 
 
 ## Friday September 16, 2021
+### Tasks
+- I'll walk you through everything in class. I'll post an outline for reference afterward.
+
 ### Goals
 1. Some practice with git, VS Code
 2. Introduction to Julia
@@ -10,9 +13,6 @@
     - Matrix operations
     - Functions, control flow, and scope
     - Optimization
-
-### Tasks
-- I'll walk you through everything in class. (I'll post an outline with some useful notes afterward)
 
 ### Useful resources:
 - [Quantecon Introduction to Julia](https://julia.quantecon.org/index_toc.html)
