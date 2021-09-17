@@ -3,8 +3,8 @@
 
 ## Friday September 16, 2021
 ### Tasks
-- Walk through [coding intro](Getting_started_coding_Julia.md)
-- I didn't get to optimization and root finding, but a description is [here](Optimization_demo.md) and Julia file is [here](Optimization_demo.jl)
+- Walk through [coding intro](/docs/Getting_started_coding_Julia.md)
+- I didn't get to optimization and root finding, but a description is [here](/docs/Optimization_demo.md) and Julia file is [here](/src/Optimization_demo.jl)
 
 ### Goals
 1. Some practice with git, VS Code
