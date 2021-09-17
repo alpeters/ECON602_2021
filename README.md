@@ -3,7 +3,8 @@
 
 ## Friday September 16, 2021
 ### Tasks
-- I'll walk you through everything in class. I'll post an outline for reference afterward.
+- Walk through [coding intro](Getting_started_coding_Julia.md)
+- I didn't get to optimization and root finding, but a description is [here](Optimization_demo.md) and Julia file is [here](Optimization_demo.jl)
 
 ### Goals
 1. Some practice with git, VS Code
