@@ -1,5 +1,11 @@
 # ECON 602 Macro Tutorial Material
+## Friday October 1, 2021
+- PS2 Question 2 covered in class
+- Comps Question 1 (Solution posted on Canvas)
 
+## Friday September 24, 2021
+- No tutorial this week
+- Sample Julia code for PS1 Question 4 [here](/src/PS1_Q4e.jl)
 
 ## Friday September 16, 2021
 ### Tasks
