@@ -1,4 +1,20 @@
 # ECON 602 Macro Tutorial Material
+## Friday October 29, 2021
+- Numerically solving dynamic programming
+- Here's a [clean version of the code we wrote in class](/src/vf_iteration_intuitive_steps_final.jl)
+- Here's the [same thing built into a function](/src/vf_iteration_intuitive.jl)
+- We'll start on Tuesday at the second file, optimize the code, and do some robustness checks
+
+## Friday October 22, 2021
+- No tutorial this week
+
+## Friday October 15, 2021
+- PS3 Question covered in class
+- Comps Question 2 (Solution posted on Canvas)
+
+## Friday October 8, 2021
+- No tutorial this week
+
 ## Friday October 1, 2021
 - PS2 Question 2 covered in class
 - Comps Question 1 (Solution posted on Canvas)
