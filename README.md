@@ -1,4 +1,10 @@
 # ECON 602 Macro Tutorial Material
+## Tuesday November 2, 2021
+- Finish dynamic programming
+- Here is the [final faster version](/src/vf_iteration_optimized.jl)
+- Here is a [version that plots the convergence of the solution](/src/vf_iteration_optimized_plotting.jl)
+- *Note: You will want to use more than 10 grid points! We used that number in class just to simplify visualization of the matrices.
+
 ## Friday October 29, 2021
 - Numerically solving dynamic programming
 - Here's a [clean version of the code we wrote in class](/src/vf_iteration_intuitive_steps_final.jl)
