@@ -9,11 +9,16 @@ function vfsolve(vnew, kgrid, tolerance, imax)
     v = vnew .+ 2*tolerance
     cartesianindex = Array{CartesianIndex{2}, length(v)}
     i = 1
+    
+    c = kgrid.^α + (1-δ)*kgrid .- kgrid'
+    c[c .< 0] .= 0
+    u = log.(c)
+    u[kgrid.^α + (1-δ)*kgrid .- kgrid' .< 0] .= -Inf
+
     while maximum(abs.(v - vnew)) > tolerance && i <= imax
         v = vnew;
-        c = kgrid.^α + (1-δ)*kgrid .- kgrid'
-        c[c .< 0] .= 0
-        (vnew, cartesianindex) = findmax(log.(c) .+ β*v', dims = 2);
+        
+        (vnew, cartesianindex) = findmax(u .+ β*v', dims = 2);
         i += 1;
     end
     kprimeindex = getindex.(cartesianindex, 2)
@@ -23,14 +28,12 @@ end
 
 kupper = 2
 klower = 0.001
-n = 10
+n = 1000
 kgrid = collect(range(klower, stop = kupper, length = n))
 (v, kprime, kprimeindex) = vfsolve(zeros(n), kgrid, 0.001, 1000);
 
 scatter(kgrid, v, label = "v")
 scatter(kgrid, kprime, label = "k'")
-scatter!(kgrid, kgrid, label = "45 degree")
-
 
 # Checks
 vbasic == v
