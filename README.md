@@ -1,4 +1,8 @@
 # ECON 602 Macro Tutorial Material
+## Friday December 10, 2021
+- Using NLsolve to solve nonlinear systems of equations: [example](/src/PS8q1_nlsolve.jl)
+- Implementability constraint for a dynamic stochastic problem: [derivation](/src/Dynamic implementability constraint derivation.md)
+
 ## Tuesday November 2, 2021
 - Finish dynamic programming
 - Here is the [final faster version](/src/vf_iteration_optimized.jl)
@@ -62,4 +66,3 @@ At the end of this tutorial, you should have:
 4. an idea of how version control and collaboration works with Git/Github.
 
 If there is time left, we'll move on to some basic programming.
-
