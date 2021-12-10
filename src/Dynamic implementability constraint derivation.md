@@ -1,7 +1,3 @@
----
-title: Dynamic Implementability Constraint Derivation
----
-
 ### Dynamic Stochastic Implementability Constraint Derivation
 
 #### Household Problem
