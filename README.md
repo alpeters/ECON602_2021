@@ -1,7 +1,8 @@
 # ECON 602 Macro Tutorial Material
 ## Friday December 10, 2021
 - Using NLsolve to solve nonlinear systems of equations: [example](/src/PS8q1_nlsolve.jl)
-- Implementability constraint for a dynamic stochastic problem: [derivation](/DynamicIMPderivation.html)
+- Last Year's Final, Quesiton 1: see Canvas
+- Implementability constraint for a dynamic stochastic problem: see Canvas
 
 ## Tuesday November 2, 2021
 - Finish dynamic programming
